@@ -19,10 +19,9 @@ import war from './war.png';
 import western from './western.png';
 
 import popular from './popular.png';
-import topRated from './top rated.png';
-import upcoming from './upcoming.png';
+import topRated from './top trash.png';
 
-const genres = {
+export default {
   action,
   adventure,
   animation,
@@ -42,10 +41,6 @@ const genres = {
   'tv movie': tvMovie,
   war,
   western,
-
   popular,
-  'top rated': topRated,
-  upcoming,
-}
-
-export default genres;
+  'top trash': topRated,
+};

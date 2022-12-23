@@ -4,11 +4,11 @@ const drawerWidth = 240;
 
 export default makeStyles((theme) => ({
   toolbar: {
-    height: '50px',
+    height: '80px',
     display: 'flex',
     justifyContent: 'space-between',
     marginLeft: '240px',
-
+    backgroundColor: '#2B1C40',
     [theme.breakpoints.down('sm')]: {
       marginLeft: 0,
       flexWrap: 'wrap',
