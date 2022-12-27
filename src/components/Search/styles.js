@@ -9,17 +9,18 @@ export default makeStyles((theme) => ({
     backgroundColor: theme.palette.mode === 'light' ? '#fff' : '#000',
     [theme.breakpoints.down('sm')]: {
       display: 'flex',
+      width: '50%',
       justifyContent: 'center',
     },
   },
   input: {
-    width: '80%',
+    width: '100%',
     color: theme.palette.mode === 'light' ? '#000' : '#fff',
     backgroundColor: 'transparent',
     border: 'none',
     fontSize: '1rem',
     [theme.breakpoints.down('sm')]: {
-      width: '70%',
+      width: '50%',
     },
   },
   icon: {

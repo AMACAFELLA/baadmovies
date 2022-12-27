@@ -21,6 +21,10 @@ import western from './western.png';
 import popular from './popular.png';
 import topRated from './top trash.png';
 
+// This object exports a collection of imported images, where each image is identified by a key.
+// The keys are strings that represent different genres or categories of movies.
+// The values are the imported images.
+
 export default {
   action,
   adventure,
