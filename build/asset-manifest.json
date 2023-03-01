@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d4e09db.css",
+    "main.js": "/static/js/main.eb66c710.js",
+    "static/media/mystery.png": "/static/media/mystery.558c9490eb0cfd651ffb.png",
+    "static/media/history.png": "/static/media/history.64c5b81b39cf9d236ba1.png",
+    "static/media/comedy.png": "/static/media/comedy.8db03127b5aa4e215099.png",
+    "static/media/adventure.png": "/static/media/adventure.0e5cdf6e2f33e64488dc.png",
+    "static/media/science fiction.png": "/static/media/science fiction.a8ab96358e85df0fe72b.png",
+    "static/media/western.png": "/static/media/western.b36b99f5f7ea7b2cbc69.png",
+    "static/media/romance.png": "/static/media/romance.d6b56278bf6dc5a453fc.png",
+    "static/media/horror.png": "/static/media/horror.bb8691c5df9ed99b8e4d.png",
+    "static/media/action.png": "/static/media/action.ace756062812452b4e11.png",
+    "static/media/crime.png": "/static/media/crime.711f84510e7edbb8b183.png",
+    "static/media/tv movie.png": "/static/media/tv movie.1ee559715fb4d74d5952.png",
+    "static/media/music.png": "/static/media/music.7e265b4ba3cb15ee482b.png",
+    "static/media/fantasy.png": "/static/media/fantasy.58b36cbfc3e6372d683d.png",
+    "static/media/thriller.png": "/static/media/thriller.9a4686ea93f9d5c87ce7.png",
+    "static/media/family.png": "/static/media/family.6cd5f7616bb43becbbdb.png",
+    "static/media/documentary.png": "/static/media/documentary.75d974042c148f68f864.png",
+    "static/media/popular.png": "/static/media/popular.fd29e9d84b70fe2aaa8c.png",
+    "static/media/drama.png": "/static/media/drama.b59c28ccb2684063e260.png",
+    "static/media/war.png": "/static/media/war.4976b939b74686699969.png",
+    "index.html": "/index.html",
+    "main.6d4e09db.css.map": "/static/css/main.6d4e09db.css.map",
+    "main.eb66c710.js.map": "/static/js/main.eb66c710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4e09db.css",
+    "static/js/main.eb66c710.js"
+  ]
+}
